@@ -5,6 +5,8 @@
 ##    2. Get the Value of the matrix
 ##    3. Set the value of inverse of the matrix
 ##    4. Get the value of inverse of the matrix
+##
+## The matrix is invertible matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
